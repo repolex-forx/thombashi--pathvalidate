@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/thombashi/pathvalidate/commit/1ca0a50fce51d5b5bd633457a72abf74dbe3112d",
       "git:hexsha": "1ca0a50fce51d5b5bd633457a72abf74dbe3112d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/thombashi/pathvalidate/commit/db50887c63ad0075aeb8b8f159c06897526e7758",
